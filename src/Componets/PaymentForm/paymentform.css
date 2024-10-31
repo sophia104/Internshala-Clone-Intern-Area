@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding : 0
+}
+
+form{
+    width: 80%;
+    height: 100px;
+    margin: 70px;
+    padding: 30px;
+    margin-left: 100px;
+    background-color: #078edd;
+    color: white;
+}
+CardElement{
+    margin: 40px;
+    margin-left: 40px;
+}
